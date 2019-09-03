@@ -17,7 +17,7 @@ Download and install on Linux:
 
 ```
 curl -L https://github.com/goflow-cloud/goflow-cli/releases/download/v0.1-alpha/goflow-darwin-amd64.tar.gz | tar zx
-sudo install -t /usr/local/bin drone
+sudo install -t /usr/local/bin goflow-darwin-amd64
 ```
 
 
